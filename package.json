@@ -15,11 +15,11 @@
   "homepage": "https://github.com/frida/mold-source-map",
   "dependencies": {
     "convert-source-map": "^1.1.0",
-    "through": "~2.2.7"
+    "through": "^2.3.8"
   },
   "devDependencies": {
-    "tap": "~0.4.0",
-    "browserify": "^10.2.0"
+    "tap": "^15.0.9",
+    "browserify": "^17.0.0"
   },
   "keywords": [
     "mold",
