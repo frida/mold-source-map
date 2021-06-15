@@ -1,4 +1,9 @@
-# mold-source-map [![build status](https://secure.travis-ci.org/thlorenz/mold-source-map.png)](http://travis-ci.org/thlorenz/mold-source-map)
+# mold-source-map
+
+Fork maintained by the Frida project until [upstream](https://github.com/thlorenz/mold-source-map)
+gets around to merging pending PRs.
+
+## About
 
 Mold a source map that is almost perfect for you into one that is.
 
